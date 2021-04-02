@@ -24,3 +24,4 @@ ff02::3 ip6-allhosts
 0.0.0.0 arcotel.gob.ec
 0.0.0.0 teuno.com
 0.0.0.0 cies.gob.ec
+0.0.0.0 192.168.100.156
